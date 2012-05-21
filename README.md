@@ -9,6 +9,7 @@ tag.
 For more Information check out the google [Webmaster-Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=189077)
 
 ## Dependencies
+*   Rails 3.x
 *   I18n
 *   URL based languages
 
