@@ -29,7 +29,7 @@ Or install it yourself as:
 
 ## Usage
 
-Include `<%= include_hreflang_tags >` in your header.
+Include `<%= include_hreflang_tags >` in the header section of your erb template.
 
 ## Contributing
 
