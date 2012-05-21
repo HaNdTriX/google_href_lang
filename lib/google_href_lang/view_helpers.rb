@@ -1,7 +1,6 @@
-require "google_href_lang/version"
-
 module GoogleHrefLang
-  module Helper
+  module ViewHelpers
+  
     # create a link tag for every language except the current
     def include_hreflang_tags
       link_tags = Array.new
