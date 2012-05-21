@@ -1,6 +1,15 @@
 # GoogleHrefLang
 
-This gem provides a tag_helper to automatically generate googles '''<link rel="alternate" hreflang="es" href="http://es.example.com/" />''' tags.
+This gem provides a tag_helper to automatically generate googles
+
+    <link rel="alternate" hreflang="es" href="http://es.example.com/" />
+
+tag
+
+## Dependencies
+*   I18n
+*   URL based languages
+
 
 ## Installation
 
