@@ -1,6 +1,6 @@
 # GoogleHrefLang
 
-TODO: Write a gem description
+This gem provides a tag_helper to automatically generate googles '''<link rel="alternate" hreflang="es" href="http://es.example.com/" />''' tags.
 
 ## Installation
 
