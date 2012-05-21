@@ -1,2 +1,1 @@
-require "google_href_lang/version"
-require 'placehold/railtie' if defined? Rails
+require 'google_href_lang/railtie' if defined? Rails

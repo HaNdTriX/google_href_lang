@@ -1,7 +1,9 @@
+require 'google_href_lang/helper'
+
 module GoogleHrefLang
   class Railtie < Rails::Railtie
-    initializer "google_href_lang.view_helpers" do |app|
-      ActionView::Base.send :include, ViewHelpers
+    ActiveSupport.on_load(:action_view) do
+      include GoogleHrefLang::Helper
     end
   end
 end
