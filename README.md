@@ -4,7 +4,7 @@ This gem provides a tag_helper to automatically generate googles
 
     <link rel="alternate" hreflang="es" href="http://es.example.com/" />
 
-tag.
+tag. 
 
 For more Information check out the google [Webmaster-Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=189077)
 
